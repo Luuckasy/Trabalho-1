@@ -1,13 +1,7 @@
-# Trabalho-1
+# Corretora
+Nosso trabalho tem a funcao de ser um sistema para um corretora de imoveis, aonde conseguiremos armazenar quem vendeu, e quem comprou e outras informacoes
 
-Ao longo da disciplina os alunos desenvolverão um programa para realizar cadastros, buscas, alterações e exclusão. O tema, que será definido pela equipe, será dividido em algumas etapas e nesta primeira etapa a equipe deverá pensar nos passos preliminares ao desenvolvimento.
 
-## ETAPA 1
-A especificação deve apresentar uma contextualização sobre o tema definido pela equipe, além de algum programa já desenvolvido relacionado ao tema escolhido.
-
-Esta etapa deverá apresentar todos os campos identificados pela equipe (mínimo de 10) que serão armazenados, seus respectivos tipos e uma descrição sobre cada campo.
-
-Exemplo: Sistema de uma locadora de carros.
 
 |Nome do campo|tipo|Descrição|
 |-------------|----|---------|
