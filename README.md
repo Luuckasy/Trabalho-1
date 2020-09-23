@@ -13,7 +13,7 @@ Exemplo: Sistema de uma locadora de carros.
 |-------------|----|---------|
 Vendedor|Cadeia de caracteres|Nome do Vendedor
 Cliente |Cadeia de caracteres|Nome do Cliente
-Tipo_De_Imovel|Inteiro|Número do cliente que está com o carro. 
+Tipo_De_Imovel|Cadeia de caracteres|Tipo de imovel
 Condominio|Booleano|Caso o imovel esteja em um condominio
 Contruida|Booleano|Se casa foi ou não construida
 Vendida|Booleano|Campo para armazenar para ver se a casa ja foi vendida
